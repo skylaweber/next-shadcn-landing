@@ -1,7 +1,6 @@
 export const siteConfig = {
   name: "Your Consulting Company",
-  description:
-    "Strategic business consulting solutions delivering measurable results and sustainable growth.",
+  description: "Strategic business consulting solutions delivering measurable results and sustainable growth.",
   mainNav: [
     {
       title: "Home",
